@@ -1,4 +1,4 @@
-# Grupy-Dla-Poczatkujacych-Programowanie-PL
+# spolecznosci-programistyczne-pl
 W pliku Lista znajdziecie listę społeczności i grup związanych z programowaniem, działających w Polsce,  jak również przykładowe grupy mailingowe otwarte na  początkujących  (świetne miejsca do zadawania pytań, szukania rozwiązań).   
 W miarę możliwości będę uzupełniała listę.   
 
