@@ -14,7 +14,7 @@ Don't be confused by names - all groups are open for both men and women.
 * Rails Girls http://railsgirls.com/events 
 * Dotclass http://dotclass.org/  
 * Google Developers Group  https://developers.google.com/groups/pulse/Poland 
-* Hackerspace (Warszawa) https://hackerspace.pl/    
+* Hackerspace (Warsaw) https://hackerspace.pl/    
 * Coder’s Lab http://www.coderslab.pl/  
 
 ### General communities
